@@ -11,7 +11,8 @@ I'm a final-year MS student in ECE at UCSD. My research interests are DNN hardwa
 
 Research Project
 ======
-Graduate Student Researcher – VVIP Lab 03/2024 – Present 
+**Graduate Student Researcher |     UCSD VVIP Lab      | 03/2024 – Present** 
+
 Deep Learning Accelerator ASIC Tape-Out 
 - Implemented an AI accelerator tailored for Convolutional Neural Networks (CNNs) and Transformer models. 
 - Mapped deep learning algorithms to datapath, including systolic array, softmax function, special function unit. 
@@ -22,8 +23,8 @@ and data flow.
 
 Professional Experience
 ======
-Hisilicon, HUAWEI Shanghai, China
-Physical Design and Timing Engineer - Kirin SoC Team 03/2020 – 03/2023 
+**Physical Design and Timing Engineer |     Hisilicon Kirin SoC Team  | 03/2020 – 03/2023** 
+
 Logic Synthesis and Physical Design 
 - Led floorplanning and physical synthesis for the 5nm SoC subsystems (CPU/Media), focusing on PPA optimization 
 and congestion prediction. 
