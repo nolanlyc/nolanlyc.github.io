@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final-year MS student in ECE at UCSD. My research interests are DNN hardware accelerator design and computer architecture.
+I'm aaaaa final-year MS student in ECE at UCSD. My research interests are DNN hardware accelerator design and computer architecture.
 
 Research Project
 ======
